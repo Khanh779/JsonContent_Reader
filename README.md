@@ -3,8 +3,7 @@
 This project provides a simple JSON parser written in C# without using any external libraries.
 
 ## Getting Started
-![image](https://github.com/Khanh779/JsonContentReader/blob/master/Screenshot/Screenshot1.png)
-![image](https://github.com/Khanh779/JsonContentReader/blob/master/Screenshot/Record1.gif)
+![image](https://github.com/Khanh779/JsonContent_Reader/blob/master/Screenshot/Record1.gif)
 
 ## Features
 1. **Read JSON Content**: 
