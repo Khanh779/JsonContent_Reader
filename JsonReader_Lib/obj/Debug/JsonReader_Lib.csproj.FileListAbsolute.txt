@@ -1,0 +1,12 @@
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\bin\Debug\JsonReader_Lib.dll
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\bin\Debug\JsonReader_Lib.pdb
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\obj\Debug\JsonReader_Lib.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\obj\Debug\JsonReader_Lib.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\obj\Debug\JsonReader_Lib.dll
+D:\Data\Tailieu\Projects\C#\Read_Json_Content\JsonReader_Lib\obj\Debug\JsonReader_Lib.pdb
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\bin\Debug\JsonReader_Lib.dll
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\bin\Debug\JsonReader_Lib.pdb
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\obj\Debug\JsonReader_Lib.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\obj\Debug\JsonReader_Lib.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\obj\Debug\JsonReader_Lib.dll
+D:\Data\Tailieu\Projects\C#\JsonContent_Reader\JsonReader_Lib\obj\Debug\JsonReader_Lib.pdb
