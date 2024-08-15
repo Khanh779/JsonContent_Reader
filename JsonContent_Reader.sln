@@ -8,6 +8,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReader_Lib", "JsonReader_Lib\JsonReader_Lib.csproj", "{2DCC8389-0196-46FB-A892-45E7EEA749EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot", "Screenshot", "{1075817C-CCFA-47D5-A713-D76F4167B143}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshot\Record1.gif = Screenshot\Record1.gif
+		Screenshot\Screenshot1.png = Screenshot\Screenshot1.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
